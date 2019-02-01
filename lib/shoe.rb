@@ -14,4 +14,3 @@ attr_accessor :color, :size, :material, :condition
 
 end
 
-Shoe.condition = "new"
