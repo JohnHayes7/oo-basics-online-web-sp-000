@@ -13,7 +13,7 @@ attr_accessor :color, :size, :material, :condition
   end
 
   def condition=(condition)
-    @condition = "new"
+    @condition = condition
   end
 
 end
